@@ -4,17 +4,13 @@
  */
 package andreachaquinga2025;
 
-/**
- *
- * @author SO-LAB1-PC7
- */
+
 public class AndreaChaquinga2025 {
 
-    /**
-     * @param args the command line arguments
-     */
+
     public static void main(String[] args) {
-        // TODO code application logic here
+        private nombreProducto;
+        
     }
     
 }
